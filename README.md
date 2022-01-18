@@ -1,7 +1,9 @@
-# democode2
-butun emeliyyatlar cmd ile olub
-salam
-demo2
-necesen
-bu demonun butun download ve upload ishleri cmd ile heyata kecirilib
-helelik
+> # democode2 <br/>
+- butun emeliyyatlar cmd ile olub <br/>
+- salam <br/>
+- demo2 <br/>
+- necesen <br/>
+- bu demonun butun download ve upload ishleri cmd ile heyata kecirilib <br/>
+- helelik <br/>
+ <br/>
+ 
