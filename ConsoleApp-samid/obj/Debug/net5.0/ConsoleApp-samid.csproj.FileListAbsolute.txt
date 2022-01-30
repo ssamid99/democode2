@@ -1,0 +1,16 @@
+C:\Users\samidms\Desktop\mmm\basic solution\ConsoleApp-samid\obj\Debug\net5.0\ConsoleApp-samid.csproj.AssemblyReference.cache
+C:\Users\samidms\Desktop\mmm\basic solution\ConsoleApp-samid\obj\Debug\net5.0\ConsoleApp-samid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samidms\Desktop\mmm\basic solution\ConsoleApp-samid\obj\Debug\net5.0\ConsoleApp-samid.AssemblyInfoInputs.cache
+C:\Users\samidms\Desktop\mmm\basic solution\ConsoleApp-samid\obj\Debug\net5.0\ConsoleApp-samid.AssemblyInfo.cs
+C:\Users\samidms\Desktop\mmm\basic solution\ConsoleApp-samid\obj\Debug\net5.0\ConsoleApp-samid.csproj.CoreCompileInputs.cache
+C:\Users\samidms\Desktop\mmm\basic solution\ConsoleApp-samid\bin\Debug\net5.0\ConsoleApp-samid.exe
+C:\Users\samidms\Desktop\mmm\basic solution\ConsoleApp-samid\bin\Debug\net5.0\ConsoleApp-samid.deps.json
+C:\Users\samidms\Desktop\mmm\basic solution\ConsoleApp-samid\bin\Debug\net5.0\ConsoleApp-samid.runtimeconfig.json
+C:\Users\samidms\Desktop\mmm\basic solution\ConsoleApp-samid\bin\Debug\net5.0\ConsoleApp-samid.runtimeconfig.dev.json
+C:\Users\samidms\Desktop\mmm\basic solution\ConsoleApp-samid\bin\Debug\net5.0\ConsoleApp-samid.dll
+C:\Users\samidms\Desktop\mmm\basic solution\ConsoleApp-samid\bin\Debug\net5.0\ref\ConsoleApp-samid.dll
+C:\Users\samidms\Desktop\mmm\basic solution\ConsoleApp-samid\bin\Debug\net5.0\ConsoleApp-samid.pdb
+C:\Users\samidms\Desktop\mmm\basic solution\ConsoleApp-samid\obj\Debug\net5.0\ConsoleApp-samid.dll
+C:\Users\samidms\Desktop\mmm\basic solution\ConsoleApp-samid\obj\Debug\net5.0\ref\ConsoleApp-samid.dll
+C:\Users\samidms\Desktop\mmm\basic solution\ConsoleApp-samid\obj\Debug\net5.0\ConsoleApp-samid.pdb
+C:\Users\samidms\Desktop\mmm\basic solution\ConsoleApp-samid\obj\Debug\net5.0\ConsoleApp-samid.genruntimeconfig.cache
